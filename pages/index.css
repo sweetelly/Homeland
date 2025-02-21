@@ -1,0 +1,13 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+@import url(../blocks/page.css);
+@import url(../blocks/header.css);
+@import url(../blocks/introduction.css);
+@import url(../blocks/content.css);
+@import url(../blocks/footer.css);
+@import url(../blocks/about.css);
+@import url(../blocks/cards.css);
+
+.coverpage {
+  display: flex;
+}

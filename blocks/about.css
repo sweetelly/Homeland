@@ -1,0 +1,66 @@
+.about {
+  /* max-width: 785px; */
+  max-width: 984px;
+  max-height: 490px;
+  margin: 0 auto;
+  /* padding: 0 0 0 148px; */
+  display: flex;
+  /* flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+}
+
+.about__title {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  font-size: 54px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 1;
+  margin: 90px 0 0;
+  padding: 0;
+  text-align: left;
+}
+
+.about__content {
+  display: block;
+  margin: 0 auto;
+}
+
+.about__content1 {
+  margin: left;
+}
+
+.about__quote {
+  /* width: 720px; */
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 1;
+  margin: 40px 0 0;
+  padding: 0;
+  text-align: left;
+}
+
+.about__quote-name {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 1;
+  /* width: 720px; */
+  text-align: right;
+  margin: 10px 0 0;
+}
+
+.about__paragraph {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 1;
+  width: 720px;
+  margin: 32px 0 0;
+  padding: 0;
+  text-align: left;
+}
